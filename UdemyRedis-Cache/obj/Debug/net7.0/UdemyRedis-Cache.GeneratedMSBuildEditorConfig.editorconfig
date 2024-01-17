@@ -9,37 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UdemyRedis_Cache
 build_property.RootNamespace = UdemyRedis_Cache
-build_property.ProjectDir = C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedis-Cache\UdemyRedis-Cache\
+build_property.ProjectDir = C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedis-Cacheb2\UdemyRedis-Cache\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedis-Cache\UdemyRedis-Cache
+build_property.MSBuildProjectDirectory = C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedis-Cacheb2\UdemyRedis-Cache
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cache/UdemyRedis-Cache/Views/Home/Index.cshtml]
+[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cacheb2/UdemyRedis-Cache/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cache/UdemyRedis-Cache/Views/Home/Privacy.cshtml]
+[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cacheb2/UdemyRedis-Cache/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cache/UdemyRedis-Cache/Views/Shared/Error.cshtml]
+[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cacheb2/UdemyRedis-Cache/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cacheb2/UdemyRedis-Cache/Views/Product/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cacheb2/UdemyRedis-Cache/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cache/UdemyRedis-Cache/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cacheb2/UdemyRedis-Cache/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cache/UdemyRedis-Cache/Views/_ViewImports.cshtml]
+[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cacheb2/UdemyRedis-Cache/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cache/UdemyRedis-Cache/Views/_ViewStart.cshtml]
+[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cacheb2/UdemyRedis-Cache/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cache/UdemyRedis-Cache/Views/Shared/_Layout.cshtml]
+[C:/Users/Ender/OneDrive/Masaüstü/Masaüstü/UdemyRedis-Cacheb2/UdemyRedis-Cache/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t6ihdjxr4a
