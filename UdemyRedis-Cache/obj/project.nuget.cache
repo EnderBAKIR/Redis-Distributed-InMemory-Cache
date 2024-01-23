@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6o/bHs4NbI7CtC3E6j8BcznUKvc3GeIBO050AEm28vb8IBXlEUl+dJwfMIq7XPmeMQXJ7nwa33xA1AQLKnM7dw==",
+  "dgSpecHash": "xaoBSntBb0rvU3n2S8dn6MM+ztIKOGJBzicwKYNwpM44f9vq/MUJ6uFZBVioKjYXeZtgpmOmIDRh1l5ujM4qoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedis-Cacheb2\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj",
+  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedisCacheB3\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ender\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Ender\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedis-Cacheb2\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj": {}
+    "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedisCacheB3\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedis-Cacheb2\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj": {
+    "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedisCacheB3\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedis-Cacheb2\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj",
+        "projectUniqueName": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedisCacheB3\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj",
         "projectName": "UdemyRedis-Cache",
-        "projectPath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedis-Cacheb2\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj",
+        "projectPath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedisCacheB3\\UdemyRedis-Cache\\UdemyRedis-Cache.csproj",
         "packagesPath": "C:\\Users\\Ender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedis-Cacheb2\\UdemyRedis-Cache\\obj\\",
+        "outputPath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedisCacheB3\\UdemyRedis-Cache\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
