@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ah/LEu5oHumN567RYqKLclIeGteKSRHWxfC80N5cNRE=",
+  "Hash": "32xdgCfZWIrzPho+Ei2H74biYSBwgQ2k6b7ke+WdmSo=",
   "Source": "IDistributedCacheRedisWeb.App",
   "BasePath": "_content/IDistributedCacheRedisWeb.App",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedisCacheB3\\IDistributedCacheRedisWeb.App\\wwwroot\\images\\download.jpg",
+      "SourceId": "IDistributedCacheRedisWeb.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedisCacheB3\\IDistributedCacheRedisWeb.App\\wwwroot\\",
+      "BasePath": "_content/IDistributedCacheRedisWeb.App",
+      "RelativePath": "images/download.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download.jpg"
     },
     {
       "Identity": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\UdemyRedisCacheB3\\IDistributedCacheRedisWeb.App\\wwwroot\\js\\site.js",
