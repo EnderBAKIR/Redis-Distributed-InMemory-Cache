@@ -1,0 +1,20 @@
+﻿@model HashSet<string>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<p><a asp-controller="SortType" asp-action="DeleteFirstItem">Listenin başından item sil item sil</a></p>
+
+<form method="post" asp-action="Add" enctype="application/x-www-form-urlencoded">
+
+    <input type="text" name="name" />
+    <input type="number" name="score" />
+    <button type="submit">Kaydet</button>
+
+</form>
+@foreach (var item in Model)
+{
+
+    <h2>@item <a asp-controller="SortType" asp-action="Delete" asp-route-name="@item">Sil</a></h2>
+}
+
