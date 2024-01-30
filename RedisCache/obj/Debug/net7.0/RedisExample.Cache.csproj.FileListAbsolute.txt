@@ -1,0 +1,12 @@
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\bin\Debug\net7.0\RedisExample.Cache.deps.json
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\bin\Debug\net7.0\RedisExample.Cache.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\bin\Debug\net7.0\RedisExample.Cache.pdb
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\obj\Debug\net7.0\RedisExample.Cache.csproj.AssemblyReference.cache
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\obj\Debug\net7.0\RedisExample.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\obj\Debug\net7.0\RedisExample.Cache.AssemblyInfoInputs.cache
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\obj\Debug\net7.0\RedisExample.Cache.AssemblyInfo.cs
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\obj\Debug\net7.0\RedisExample.Cache.csproj.CoreCompileInputs.cache
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\obj\Debug\net7.0\RedisExample.Cache.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\obj\Debug\net7.0\refint\RedisExample.Cache.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\obj\Debug\net7.0\RedisExample.Cache.pdb
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\UdemyRedisCacheB4\RedisCache\obj\Debug\net7.0\ref\RedisExample.Cache.dll
